@@ -15,6 +15,11 @@ url: '' # the base hostname & protocol for your site http://www.example.com
 # Build settings
 markdown: kramdown
 
+# Sidebar settings
+sidebar: true                           
+sidebar-about-description: "KingSplendor's Blog"
+# sidebar-avatar:/img/cover.jpg
+
 permalink: '/:title/'
 
 gems: [jekyll-paginate]
