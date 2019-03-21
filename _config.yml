@@ -18,7 +18,7 @@ markdown: kramdown
 # Sidebar settings
 sidebar: true                           
 sidebar-about-description: "KingSplendor's Blog"
-# sidebar-avatar:/img/cover.jpg
+sidebar-avatar:/img/cover.jpg
 
 permalink: '/:title/'
 
